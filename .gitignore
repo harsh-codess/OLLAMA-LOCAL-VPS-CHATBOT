@@ -1,4 +1,4 @@
-# Environment variables
+# Environment variabless
 .env
 .env.local
 .env.*.local
